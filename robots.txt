@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://yritotoner.github.io/sitemap
+Sitemap: https://yritotoner.github.io/app/sitemap
+Sitemap: https://yritotoner.github.io/assets/sitemap
+Sitemap: https://yritotoner.github.io/css/sitemap
+Sitemap: https://yritotoner.github.io/includes/sitemap
+Sitemap: https://yritotoner.github.io/item/sitemap
+Sitemap: https://yritotoner.github.io/src/sitemap
